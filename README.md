@@ -1,4 +1,4 @@
-# sham-jobs
+# Firebase Firestore+Auth and Routing Practice with NETNINJA tutorial
 
 ## Project setup
 ```
